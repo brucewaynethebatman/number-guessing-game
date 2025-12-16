@@ -7,3 +7,4 @@ if guess == number:
     print("Correct! You guessed it.")
 else:
     print("Wrong! The number was", number)
+    
