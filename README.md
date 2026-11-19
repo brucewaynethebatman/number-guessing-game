@@ -1,4 +1,4 @@
-# Number Guessing Game
+#The Number Guessing Game
 
 A simple Python command-line game where the user guesses a random number.
 
